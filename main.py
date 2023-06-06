@@ -1,3 +1,5 @@
+#Authors: Team(Just a Code Space) Daniil, Adil
+
 #include lib's
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
