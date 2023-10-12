@@ -1,4 +1,4 @@
-#Authors: Team(Just a Code Space) Daniil, Adil
+#Authors: AdilT
 
 #include lib's
 from selenium import webdriver
